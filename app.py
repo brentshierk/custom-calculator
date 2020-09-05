@@ -13,6 +13,10 @@ def splitWords():
     print(bothWords)
     return bothWords
 resultWord = splitWords()
+#resultWord = this varible has a value of the function result.
+
+
+
 """ 
 the checkMatch function is iterating over the concatenated variable for word1 and word2 resultWord, this then checks if each letter from resultWord appears in the alphabet,
 if so then the sublist[1] is changed according to amount of occurences 
