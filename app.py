@@ -8,9 +8,7 @@ alphabet = [["a",0],["b",0],["c",0],["d",0],["e",0],["f",0],["g",0],["h",0],["i"
 """
 this first function takes the input from the user and saves the first result of the input to word1 and the result of the second to word2
 """
-firstSplitWord = []
-secondSplitWord = []
-bothWords = []
+
 def splitWords():
     word1= input('enter a word : ')
     word2= input('enter a second word : ')
